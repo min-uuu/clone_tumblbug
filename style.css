@@ -89,6 +89,10 @@ body {
     cursor: pointer;
 }
 
+.logo :hover {
+    cursor: pointer;
+}
+
 a {
     color: gray;
 }
